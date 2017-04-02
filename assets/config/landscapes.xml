@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="true"
+	flickrUserName="tanmaythakur"
+	useFullscreenExpand="true"
+	useThumbDots="false"
+	showThumbsButton="true"
+	showExpandButton="true"
+	showOpenButton="false"
+	galleryTitle="Landscapes"
+	flickrTags="landscapesxml"
+
+/>
